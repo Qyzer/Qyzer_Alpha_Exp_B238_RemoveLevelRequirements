@@ -1,3 +1,0 @@
-<configs>	
-	<remove xpath="/progression/perks/perk/level_requirements/requirement[@name='PlayerLevel']" />
-</configs>
